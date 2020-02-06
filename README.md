@@ -1,5 +1,5 @@
 # Chat-bot-2020
-
+```python
 #!/bin/python3
 
 from random import randrange
